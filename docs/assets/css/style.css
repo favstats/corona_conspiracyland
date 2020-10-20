@@ -421,8 +421,10 @@ input[type=range]::-ms-thumb {
 
 #date-label {
   display: inline-block;
+  margin: auto;
+  width: 50%;
   vertical-align: top;
-  margin-top: 15px;
+  margin-bottom: 10px;
 }
 
 #date-slider {
