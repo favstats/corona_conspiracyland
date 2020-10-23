@@ -1049,6 +1049,7 @@ noscript {
   background: #eee;
   padding: 20px 10%;
   font-size: 12px;
+  overflow: scroll;
   box-sizing: border-box;
   height: 115px;
 }
