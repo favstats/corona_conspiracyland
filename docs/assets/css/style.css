@@ -1054,17 +1054,17 @@ noscript {
 }
 
 .modal-bottom-content {
-  font-size: 12px;
+  font-size: 10px;
   line-height: 18px;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-between;
 }
 
 .modal-bottom-content b {
-  margin-bottom: 5px;
+  margin-bottom: 2px;
   display: inline-block;
-  font-size: 15px;
+  font-size: 10px;
 }
 
 /**
